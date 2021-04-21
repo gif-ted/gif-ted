@@ -20,7 +20,7 @@ gif-ted
 
 
 
-Generate animated gifs based on input images with rotataion, translations and text
+Generate animated gifs based on input images with rotation, translations and text
 
 
 * Free software: MIT license
